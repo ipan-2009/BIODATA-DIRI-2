@@ -18,7 +18,7 @@
 			<h2>Informasi</h2>			
 			
 			<div class="kiri">
-				<img src="poto.JPG" alt="profile-irfan" style="width: 200px; height: 200px; border-radius: 100%; object-fit: cover;">
+				<img src="poto.jpg">	
 			</div>
  
 			<div class="kanan">
